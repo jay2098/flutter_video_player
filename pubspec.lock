@@ -14,7 +14,7 @@ packages:
       name: auto_orientation
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.6"
+    version: "1.0.1"
   boolean_selector:
     dependency: transitive
     description:
