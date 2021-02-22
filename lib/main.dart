@@ -6,6 +6,7 @@ import 'views/orientationPage.dart';
 final urlLandscapeVideo = 'https://assets.mixkit.co/videos/preview/mixkit-group-of-friends-partying-happily-4640-large.mp4';
 final urlPortraitVideo = 'https://assets.mixkit.co/videos/preview/mixkit-a-girl-blowing-a-bubble-gum-at-an-amusement-park-1226-large.mp4';
 final urlYoutubeVideo = 'https://youtube.com/watch?v=HSAa9yi0OMA';
+final urlLandscapeVideo2 = 'https://d11b76aq44vj33.cloudfront.net/media/720/video/5def7824adbbc.mp4';
 
 void main() {
   runApp(MyApp());
